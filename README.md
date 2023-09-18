@@ -1,1 +1,2 @@
 # M11-challenge
+This challenge is a full web-scraping and data analysis project. It will identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. This challenge also connects to previous topics of collecting data, organizing and storing data, analyzing data, and then visually communicating insights.
